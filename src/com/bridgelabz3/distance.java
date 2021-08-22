@@ -1,4 +1,5 @@
 package com.bridgelabz3;
+
 //Euclidian Distance
 
 public class distance {
